@@ -1,0 +1,40 @@
+.field{
+    width:20%;
+}
+.common{
+    padding: .5em;
+    
+}
+.myRow
+{   
+    margin-top: 1.2em;;
+    width:100%;
+    background-color:rgba(90, 93, 95, 0.3);
+    text-align: middle;
+
+    
+}
+.addProduct{
+    text-align: center;
+    color: white;
+    opacity: 0.8;
+    
+    
+}
+.addProduct, .inputName, .inputPrice {
+    float: left;
+    vertical-align: middle;
+    -moz-box-align: center;
+    width:25%;
+}
+.theButton{
+    margin-left: 2em;
+    
+}
+.inputName, .inputPrice{
+    opacity: 0.7;
+}
+.searchBox{
+    padding:5px;
+    margin-left:1em;
+}
